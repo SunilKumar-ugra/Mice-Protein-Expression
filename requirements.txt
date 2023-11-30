@@ -7,4 +7,14 @@ mlflow
 tensorflow
 tensorflow_addons
 xgboost
--e .
+
+notebook
+python-box
+pyYAML
+tqdm
+ensure
+joblib
+types-PyYAML
+Flask
+Flask-Cors
+#-e .
