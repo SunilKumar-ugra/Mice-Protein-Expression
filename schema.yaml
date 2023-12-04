@@ -83,4 +83,4 @@ COLUMNS:
   class: object
 
 TARGET_COLUMN: 
-  name: class
+  name: cls
