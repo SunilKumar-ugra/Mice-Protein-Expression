@@ -1,6 +1,8 @@
 ##
 Notebook/
 research/
+logs/
+mlruns/
 
 
 # Byte-compiled / optimized / DLL files
