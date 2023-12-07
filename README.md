@@ -23,7 +23,8 @@ The aim is to identify subsets of proteins that are discriminant between the cla
 
 
 
-<img src="static/mice_mlflow.PNG" >
+[![mice_mlflow](https://github.com/SunilKumar-ugra/Mice-Protein-Expression/assets/45965583/0f3a163c-eef1-482a-8c3e-583ccf214c52)](https://dagshub.com/SunilKumar-ugra/Mice-Protein-Expression.mlflow/)
+
 
 
 # How to run?
