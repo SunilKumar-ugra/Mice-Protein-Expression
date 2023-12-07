@@ -21,10 +21,9 @@ The aim is to identify subsets of proteins that are discriminant between the cla
 ### [Click Here To See More About The Dataset]( https://archive.ics.uci.edu/dataset/342/mice+protein+expression)   
 ##  [ML Flow Experiments](https://dagshub.com/SunilKumar-ugra/Mice-Protein-Expression.mlflow/)
 
-<!-- [![alt text](https://github.com/SunilKumar-ugra/Mice-Protein-Expression/blob/master/static/mice_mlflow.PNG?raw=true)](https://dagshub.com/SunilKumar-ugra/Mice-Protein-Expression.mlflow/) -->
 
 
-[![alt text](./static/mice_mlflow.PNG)](https://dagshub.com/SunilKumar-ugra/Mice-Protein-Expression.mlflow/)
+<img src="static/mice_mlflow.PNG" >
 
 
 # How to run?
