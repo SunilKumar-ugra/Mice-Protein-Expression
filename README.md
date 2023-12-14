@@ -26,6 +26,10 @@ The aim is to identify subsets of proteins that are discriminant between the cla
 
 
 
+
+
+
+
 # How to run?
 ### STEPS:
 
@@ -58,4 +62,8 @@ python app.py
 Now,
 ```bash
 http://127.0.0.1:80 #Open this url in the browser
-``` 
+```
+
+## Project Demo
+
+https://github.com/SunilKumar-ugra/Mice-Protein-Expression/assets/45965583/7e3a85fd-e83c-4d2c-8f1e-68dbf81f9ed9
